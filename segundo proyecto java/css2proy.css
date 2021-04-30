@@ -1,0 +1,40 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    border: 1px solid black;
+    padding: 0px;
+    margin: 0px;
+    height: 500;
+    width: 300;
+}
+.screen{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+.b1{
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+
+}
+.sb1{
+    display: flex;
+    flex-direction: row;
+}
+.sb2{
+    display: flex;
+    flex-direction: column;
+}
+
+.number{
+    display: flex;
+    flex-flow: row;
+    border: 1px solid black;
+    background-color: gray;
+    padding: 0px;
+    margin: 0px;
+    height: 70;
+    width: 70;
+}
